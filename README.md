@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atharvsharma1998
-- 👀 I’m interested in IOS App developement, Flutter app development
+- 👀 I’m interested in IOS App developement, Flutter app development, web development
 - 🌱 I’m improving my ios and flutter app development skills
 - 📫 Reach me at atharv228.as@gmail.com
 
