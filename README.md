@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=atharvsharma1998&style=plastic" />
 
 - 👋 Hi, I’m @atharvsharma1998
-- 👀 I’m interested in IOS App developement, Flutter app development, web development
-- 🌱 I’m improving my ios and flutter app development skills
+- 👀 I’m interested in IOS App developement, Flutter app development, web development.
+- 🌱 I’m improving my ios, flutter, web development skills
 - 📫 Reach me at atharv228.as@gmail.com
 
 <!---
